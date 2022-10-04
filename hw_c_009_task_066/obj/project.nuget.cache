@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZUq02aM0vekaPJf9MtiFGNNmZKODZbKwnOqklqpv9JpYBvg8hKRYi9wTvKmjsAZVO5lrHtxRrGWkBpYV4mfVCA==",
+  "success": true,
+  "projectFilePath": "/home/kmkochetkov/Projects/repo/HW_C_009/hw_c_009_task_066/hw_c_008_task_066.csproj",
+  "expectedPackageFiles": [
+    "/home/kmkochetkov/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
